@@ -1,3 +1,4 @@
+// this is the header file
 <?php include "lang_config.php";
 
 global $wpdb;
